@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610978780 source:c:\users\asus\desktop\my_lab\kawin_prob\main.cpp
+	<iostream>
+	<vector>
+

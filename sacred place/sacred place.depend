@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621009228 source:c:\users\asus\desktop\my_lab\posn 64_2\graph\sacred place\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<queue>
+	<limits.h>
+
